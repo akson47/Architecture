@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- General-->
+    <string name="app_name">Android Architecture</string>
+    <string name="general_error_message">General error.</string>
+    <string name="alert">Warning</string>
+    <string name="error_message">General error.</string>
+    <string name="bad_request">Bad Request</string>
+    <string name="failed">Connection failed</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>    
+    <string name="loading">Please wait...</string>    
+    <!-- General-->
+
+
+    <!-- SplashActivity -->  
+    <string name="no_network_message">Please check your internet connection and try again.</string>
+    <string name="alert_update_app">You need to update your application to continue using it.</string>
+    <!-- SplashActivity -->
+
+</resources>
